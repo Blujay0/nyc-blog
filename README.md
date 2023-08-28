@@ -1,6 +1,5 @@
 # NYC Blog
 A blog about NYC. <br />
-Playground for experimenting with page layout and HTML elements.
 
 ## Features
 * HTML
